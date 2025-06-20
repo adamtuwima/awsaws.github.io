@@ -1,0 +1,8 @@
+{
+  "script_url": "https://adamtuwima.github.io/awsaws.github.io/live_script.py",
+  "domains": [
+    "example.com",
+    "example123.com",
+    "*"
+  ]
+}
